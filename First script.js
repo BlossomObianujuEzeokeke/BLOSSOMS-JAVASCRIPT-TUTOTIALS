@@ -26,4 +26,11 @@ console.log("Your surname is", secondName);
 console.log("You are", age, "years old");
 console.log("Enrolled:", student);
 
+document.getElementById("p1").innerHTML = "Hello " + firstName + "<hr> " + firstName;
+document.getElementById("p2").innerHTML = "<h1>" + Your second name is " + secondName + "&nbsp" + firstName;
+document.getElementById("p3").innerHTML;
+
+
+
+
 
