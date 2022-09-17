@@ -1,4 +1,3 @@
-   //  console.log("I like pizza, it is a great way to start my day " )
    // console.log("My first JavaScript. Hello world!");
 
    // window.alert("For security reasons, please accept cookies before proceeding.")
@@ -31,9 +30,16 @@
    // document.getElementById("p2").innerHTML = "<h1>" + "Your second name is " + secondName + "&nbsp" + firstName + "</h1>";
    // document.getElementById("p3").innerHTML = "You have just turned " + age + "<img src="./first image.jpg" alt="" > ";
 
+   //---- ABOUT PAGE ----//
+// let name = "Funmi";
+let state;
+state = "lagos";
 
+// console.log(name);
+// console.log(location);
 
-
+// console.log("Hello", name);
+console.log("You live in", state);
 
 //---- LINK TO ABOUT.HTML ----//
 // document.getElementById().innerHTML 
