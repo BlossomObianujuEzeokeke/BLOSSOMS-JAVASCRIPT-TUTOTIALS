@@ -1,7 +1,7 @@
    //  console.log("I like pizza, it is a great way to start my day " )
    // console.log("My first JavaScript. Hello world!");
 
-   // window.alert("For security reasons, please accept cookies before proceeding.")
+   window.alert("For security reasons, please accept cookies before proceeding.")
 
    //-------- HOW TO DECLARE AND ASSIGN  A VARIABLE ------//
    // let age; (this is best for user input, only declare, don't assign)
@@ -26,12 +26,16 @@
    // console.log("You are", age, "years old");
    // console.log("Enrolled:", student);
 
+   //---- LINK TO INDEX.HTML ----//
    // document.getElementById("p1").innerHTML = "Hello " + firstName + "<hr> " + firstName + "<hr>";
    // document.getElementById("p2").innerHTML = "<h1>" + "Your second name is " + secondName + "&nbsp" + firstName + "</h1>";
    // document.getElementById("p3").innerHTML = "You have just turned " + age + "<img src="./first image.jpg" alt="" > ";
 
+      //---- LINK TO CONTACTS.HTML ----//
+// document.getElementById()
+
    //---------- ARITHMETIC EXPRESSIONS -----------//
-   let students = 20;
+   // let students = 20;
 
    //---- USING OPERATORS(+)-----//
    //  students = students + 1; 
@@ -39,8 +43,8 @@
    // students++;
 
    //---- USING OPERATORS(-)-----//
-   students = students - 1; 
-   students -= 1;
+   // students = students - 1; 
+   // students -= 1;
    // students--;
 
    //---- USING OPERATORS(*)-----//
@@ -52,5 +56,5 @@
    //  students %= 2;
 
 
-   console.log("There are", students, "in my class");
+   // console.log("There are", students, "in my class");
 
