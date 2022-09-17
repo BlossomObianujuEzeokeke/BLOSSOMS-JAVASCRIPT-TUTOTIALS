@@ -31,8 +31,20 @@
    // document.getElementById("p2").innerHTML = "<h1>" + "Your second name is " + secondName + "&nbsp" + firstName + "</h1>";
    // document.getElementById("p3").innerHTML = "You have just turned " + age + "<img src="./first image.jpg" alt="" > ";
 
-      //---- LINK TO CONTACTS.HTML ----//
-// document.getElementById()
+
+
+
+
+//---- LINK TO ABOUT.HTML ----//
+// document.getElementById().innerHTML 
+// document.getElementById().innerHTML
+// document.getElementById().innerHTML 
+
+//----LINK TO CONTACTS.HTML ---//
+// document.getElementById().innerHTML 
+// document.getElementById().innerHTML
+// document.getElementById().innerHTML
+
 
    //---------- ARITHMETIC EXPRESSIONS -----------//
    // let students = 20;
@@ -55,6 +67,5 @@
    // students = students % 2; 
    //  students %= 2;
 
-
-   // console.log("There are", students, "in my class");
+   // console.log("There are", students, "students in my class");
 
