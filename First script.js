@@ -28,9 +28,9 @@ console.log("Enrolled:", student);
 
 document.getElementById("p1").innerHTML = "Hello " + firstName + "<hr> " + firstName + "<hr>";
 document.getElementById("p2").innerHTML = "<h1>" + "Your second name is " + secondName + "&nbsp" + firstName + "</h1>";
-document.getElementById("p3").innerHTML = "You have just turned " + age + "<img src="" alt="" >";
+document.getElementById("p3").innerHTML = "You have just turned " + age + "<img src="./first image.jpg" alt="" > ";
 
-
+ 
 
 
 
