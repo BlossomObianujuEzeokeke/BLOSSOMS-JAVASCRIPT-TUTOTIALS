@@ -19,38 +19,30 @@
    // console.log(secondName);
    // console.log(student);
 
-   //--- MAKING THESE INPUTS INTERACTIVE ---//
+   //--- INPUTS FOR CONSOLE ONLY ---//
    // console.log("Hello", firstName);
    // console.log("Your surname is", secondName);
    // console.log("You are", age, "years old");
    // console.log("Enrolled:", student);
 
-   //---- LINK TO INDEX.HTML ----//
+   //---- LINK TO INDEX.HTML (INPUT FOR PAGE,shows on main page) ----//
    // document.getElementById("p1").innerHTML = "Hello " + firstName + "<hr> " + firstName + "<hr>";
    // document.getElementById("p2").innerHTML = "<h1>" + "Your second name is " + secondName + "&nbsp" + firstName + "</h1>";
    // document.getElementById("p3").innerHTML = "You have just turned " + age + "<img src="./first image.jpg" alt="" > ";
 
-   //---- ABOUT PAGE ----//
-// let name = "Funmi";
-let state;
-state = "lagos";
+ //---- CONTACTS PAGE ----//
+// let firstName = "Stephen";
+// let state = "Maiduguri";
+// console.log("Hello", firstName);
+// console.log("You live in", state);
+// document.getElementById("contacts").innerHTML = "Hello " + firstName + " you are welcome to " + state;
 
-// console.log(name);
-// console.log(location);
-
-// console.log("Hello", name);
-console.log("You live in", state);
-
-//---- LINK TO ABOUT.HTML ----//
-// document.getElementById().innerHTML 
-// document.getElementById().innerHTML
-// document.getElementById().innerHTML 
-
-//----LINK TO CONTACTS.HTML ---//
-// document.getElementById().innerHTML 
-// document.getElementById().innerHTML
-// document.getElementById().innerHTML
-
+//----LINK TO ABOUT.HTML ---//
+// let firstName = "Laila";
+// let state = "Abia";
+// console.log("Hello", firstName);
+// console.log("You live in", state);
+// document.getElementById("about").innerHTML = "Hello " + firstName + ", I am ready!";
 
    //---------- ARITHMETIC EXPRESSIONS -----------//
    // let students = 20;
