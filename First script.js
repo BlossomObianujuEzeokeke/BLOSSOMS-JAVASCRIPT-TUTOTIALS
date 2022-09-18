@@ -67,3 +67,18 @@
 
    // console.log("There are", students, "students in my class");
 
+
+//----- CONCAT OF STRINGS ----//
+let x = "John " + " Doe";
+let y = 5 + 5 + 5;
+document.getElementById("demo").innerHTML = x + " is " + y + " years old";
+
+
+
+
+
+
+
+
+
+
