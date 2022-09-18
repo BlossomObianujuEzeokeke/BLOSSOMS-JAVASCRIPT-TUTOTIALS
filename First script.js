@@ -69,14 +69,20 @@
 
 
 //----- CONCAT OF STRINGS ----//
-let x = "John " + " Doe";
-let y = 5 + 5 + 5;
-document.getElementById("demo").innerHTML = x + " is " + y + " years old";
+// let x = "John " + "Doe";
+// let y = 5 + 5 + 5;
+// document.getElementById("demo").innerHTML = x + " is " + y + " years old";
+// console.log("Hello", x, "you are", y, "years old.");
 
+// ---- EXPONENTIATION/EXPONENTS----//
+// let x = 5 ** 2;
+// document.getElementById("p4").innerHTML = x;
+// console.log(x);
 
-
-
-
+//---------------------//
+let x = Math.pow(5,3);
+document.getElementById("p4").innerHTML = x;
+console.log(x);
 
 
 
