@@ -93,6 +93,12 @@
 // console.log(x , y, "you are welcome!")
 
 //---------------------//
+let username;
 
+document.getElementById("myButton").onclick = function(){ 
+username = document.getElementById("myText").value;
+console.log(username);
+document.getElementById("myLabel").innerHTML = "<b> " + "Hello " + username + "</b>";
+}
 
 
