@@ -80,11 +80,19 @@
 // console.log(x);
 
 //---------------------//
-let x = Math.pow(5,3);
-document.getElementById("p4").innerHTML = x;
-console.log(x);
+// let x = Math.pow(5,3);
+// document.getElementById("p4").innerHTML = x;
+// console.log(x);
 
+//---------------------//
 
+// let x = "John";
+// let y = "Doe";
+// let z = x + y;
+// document.getElementById("p4").innerHTML = x  + "&nbsp" + y + " you are welcome!."
+// console.log(x , y, "you are welcome!")
+
+//---------------------//
 
 
 
