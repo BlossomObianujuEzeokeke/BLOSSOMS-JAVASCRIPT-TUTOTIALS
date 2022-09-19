@@ -92,7 +92,7 @@
 // document.getElementById("p4").innerHTML = x  + "&nbsp" + y + " you are welcome!."
 // console.log(x , y, "you are welcome!")
 
-//---------------------//
+//---- ACCEPTING USER INPUT(INDEX PAGE) ---//
 let username;
 
 document.getElementById("myButton").onclick = function(){ 
