@@ -31,9 +31,10 @@
 <!-- </script> -->
 <br>
 <br>
-<!-- CREATING A TODO LIST APP -->
+
+<!----- CREATING A TODO LIST APP ----->
    <button>Press me</button>
-   <div>Get groceries</div>
+   <div id="list">Get groceries</div>
    <div>Wash car</div>
    <div>Make dinner</div>
    <div>Bathe children</div>
@@ -43,8 +44,12 @@
    let todo2 = "Wash car";
    let todo3 = "Make dinner";
    let todo4 = "Bathe children";
-   console.log(typeof todo3);
-   </script>
+   // console.log(typeof todo3);
+
+   let element = document.createElement("div");
+   element.innerHTML = todo1;
+   document.body.appendChild(element);
+   </script> 
    <br>
    <br>
    <!-- <script>
