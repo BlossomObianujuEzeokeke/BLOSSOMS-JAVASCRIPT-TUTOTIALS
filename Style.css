@@ -6,4 +6,7 @@ body
 p
 { 
    font-size: x-large;
+   background-color: darkorchid;
+   border: 2;
+   border-style: double;
 }
