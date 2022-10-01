@@ -3,10 +3,17 @@ body
    background-color: rgba(128, 255, 0, 0.206);
 }
 
+header
+{
+   font-style: oblique;
+   color: darkred;
+}
+
+
 p
 { 
    font-size: x-large;
-   background-color: darkorchid;
+   background-color: rgba(153, 50, 204, 0.707);
    border: 2;
    border-style: double;
 }
