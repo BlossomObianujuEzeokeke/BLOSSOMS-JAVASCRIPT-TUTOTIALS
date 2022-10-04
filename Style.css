@@ -34,7 +34,6 @@ p.c
    border-style: double;
 }
 
-
 ul.a {
    /* list-style-type: circle; */
    list-style-type:armenian;
@@ -56,14 +55,30 @@ div.d
 {
 font-size: 300%;
 text-shadow: 200%;
-color: darkred;
+color: rgba(139, 0, 0, 0.856);
 font-family: sans-serif;
 }
 
 #princess
 {
+   text-align:left;
+   color: rgba(0, 128, 0, 0.991);
+}
+
+.Hero
+{
    text-align: right;
-   font-style: oblique;
+   font-size: xx-large;
+   font-style: italic;
+   border-style:groove;
+   border-bottom-color: rgb(255, 162, 0);
+   color: rgb(47, 85, 255);
+}
+
+h3, h4, p.z
+{
+   text-align: center;
+   color: red;
 }
 
 
