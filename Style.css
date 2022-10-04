@@ -36,7 +36,8 @@ p.c
 
 
 ul.a {
-   list-style-type: circle;
+   /* list-style-type: circle; */
+   list-style-type:armenian;
  }
  
  ul.b {
@@ -53,8 +54,10 @@ ul.a {
  
 div.d
 {
-font-size: 100%;
-/* font-style: inherit; */
+font-size: 300%;
+text-shadow: 200%;
+color: darkred;
+font-family: sans-serif;
 }
 
 
