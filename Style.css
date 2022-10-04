@@ -12,11 +12,51 @@ header
    background-image: -moz-repeating-radial-gradient();
 }
 
+p.a
+{
+   text-align: center;
+   color: red;
+ }
 
-p
+p.b
 { 
    font-size: x-large;
    background-color: rgba(153, 50, 204, 0.707);
    border: 2;
    border-style: double;
 }
+
+p.c
+{ 
+   font-size: x-large; 
+   background-color: rgba(50, 204, 88, 0.707);
+   border: 2;
+   border-style: double;
+}
+
+
+ul.a {
+   list-style-type: circle;
+ }
+ 
+ ul.b {
+   list-style-type: square;
+ }
+ 
+ ol.c {
+   list-style-type: upper-roman;
+ }
+ 
+ ol.d {
+   list-style-type: lower-alpha;
+ }
+ 
+div.d
+{
+font-size: 100%;
+/* font-style: inherit; */
+}
+
+
+
+
