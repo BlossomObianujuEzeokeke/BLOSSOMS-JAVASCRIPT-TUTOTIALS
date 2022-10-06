@@ -7,9 +7,10 @@ header
 {
    text-align: center;
    font-style: oblique;
-   color: darkred;
    font-size: 200%;
-   background-image: -moz-repeating-radial-gradient();
+   list-style-position: inside;
+   text-decoration: none;
+   color: black;
 }
 
 p.a
@@ -101,4 +102,19 @@ a:link a
  { 
     color: blue; 
  }
+
+p.d
+{
+   text-align: center;
+   text-transform: uppercase;   
+color: rgba(255, 166, 0, 0.889);
+background-color: rgba(76, 0, 130, 0.792);
+background-size: contain;
+}
+
+li
+{
+   text-align: center;
+}
+
 
