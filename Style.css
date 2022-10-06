@@ -81,18 +81,24 @@ h3, h4, p.z
    color: red;
 }
 
-a:link {
-   color: red;
+/* HOVER OVER A BUTTON */
+a:link a
+{ 
+ color: red; 
  }
 
- a:visited {
+ a:visited 
+ {
    color: green;
+ } 
+
+ a:hover 
+ { 
+   color: rgba(255, 105, 105, 0.621);
  }
 
- a:hover {
-   color: hotpink;
+ a:active
+ { 
+    color: blue; 
  }
 
- a:active {
-   color: blue;
- }
