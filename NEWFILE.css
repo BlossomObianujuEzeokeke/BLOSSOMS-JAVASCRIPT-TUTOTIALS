@@ -1,8 +1,20 @@
 .green{
-   color: rgba(139, 0, 0, 0.981);
+   color: rgb(0, 128, 0);
 }
 
+#red{
+   color: rgb(255, 0, 0);
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
+div{
+   color: whitesmoke;
+   background-color: darkgreen;
+   border-style: dashed;
+   border-color: black;
+}
 
-
-
+.blue{
+background-position-x: left;
+background-color: orange;
+}
