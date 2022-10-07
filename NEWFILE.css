@@ -9,12 +9,15 @@
 
 div{
    color: whitesmoke;
-   background-color: darkgreen;
+   background-color: #ff2121;
    border-style: dashed;
-   border-color: black;
+   border-color: #ff0000;
 }
 
 .blue{
 background-position-x: left;
-background-color: orange;
+background-color: rgb(100, 0, 50);
+line-height: 5rem;
+text-align: center;
+color: rgba(255, 255, 255)
 }
