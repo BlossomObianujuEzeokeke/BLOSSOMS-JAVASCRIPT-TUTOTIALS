@@ -47,13 +47,26 @@ text-align: center;
 
 .height{
 
-} */
+}
 
 .default{
    color: red;
    font-size: large;
+} */
+
+*{
+   margin: 0;
 }
 
+.navbar{
+background: blue;
+height: 100px;
+color: white;
+
+}
+ 
 
 
- */
+
+
+
