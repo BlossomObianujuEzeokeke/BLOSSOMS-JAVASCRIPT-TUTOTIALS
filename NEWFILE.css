@@ -82,14 +82,11 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
    border: 1px solid black;
    background-color: yellow;
    padding: 5px;
-
- }
-
-:hover{
-
 }
 
-
+.Sofia{
+   font-family: "Sofia";
+}
 
 
 
