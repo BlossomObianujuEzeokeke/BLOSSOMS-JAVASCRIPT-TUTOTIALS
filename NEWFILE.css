@@ -73,6 +73,7 @@ body{
 
 h1{
 font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: center;
 }
 
 #div1 {
@@ -86,7 +87,25 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 .Sofia{
    font-family: "Sofia";
+   text-align: center;
+   font-weight:900;
+   line-height: 3em;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
