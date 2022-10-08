@@ -95,12 +95,30 @@ text-align: center;
 h1{
    background: orangered;
    color: antiquewhite;
+padding-top: 30px;
+padding-bottom: 30px;
+padding-left: 20px;
+outline: 20em;
+outline-width: 0.2em;
+outline-color: black;
+outline-style: solid;
+outline-offset:10px;
 
 }
 
 p{
-   background-color: chartreuse;
+background-color: chartreuse;
 font-weight: 900;
+padding: 50px;
+outline: 20em;
+outline-width: 0.2em;
+outline-color: black;
+outline-style: solid;
+outline-offset:10px;
+outline-offset:-10px;
+width: 50%;
+text-align: center;
+
 }
 
 
