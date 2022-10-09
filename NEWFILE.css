@@ -157,6 +157,21 @@ outline-offset: -10px;
    color: blanchedalmond;
 } */
 
+*{
+   margin: 5px;
+   padding: 5px;
+   box-sizing: 20px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul li{
+ list-style-type: upper-roman;  
+}
+
+
+
+
+
 
 
 
