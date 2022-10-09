@@ -146,10 +146,14 @@ outline-offset: -10px;
 } */
 
 .block{
-   
+   background: blue;
+   color: antiquewhite;
 }
 
-
+.inline{
+   background: red;
+   color: blanchedalmond;
+}
 
 
 
