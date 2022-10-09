@@ -118,10 +118,15 @@ outline-offset:10px;
 outline-offset:-10px;
 width: 50%;
 text-align: center;
-
 }
 
+#one{
+text-decoration: none;
+}
 
+#two{
+text-decoration: none;
+}
 
 
 
