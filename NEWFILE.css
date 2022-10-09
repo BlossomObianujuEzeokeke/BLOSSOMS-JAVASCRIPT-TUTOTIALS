@@ -125,18 +125,25 @@ text-align: center;
 
 }
 
-
 a{
+   margin: 0 20px;
 background: #689f3f;
 text-decoration: none;
-padding: 1.2rem;
-margin: 3rem;
-padding: 1.2rem;
- 
+padding: 1.2rem 1.5rem;
+color: #000000;
+text-transform: uppercase;
+cursor: pointer;
 }
 
+#one{
+border: 0.2rem solid #000000;
+}
 
-
+#two{
+outline: 0.2rem solid #000000;
+outline-offset: 10px;
+outline-offset: -10px;
+}
 
 
 
