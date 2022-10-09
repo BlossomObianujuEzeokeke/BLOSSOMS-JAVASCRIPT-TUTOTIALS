@@ -145,12 +145,14 @@ outline-offset: 10px;
 outline-offset: -10px;
 } */
 
-.block{
+.rack{
+   display: inline;
    background: blue;
    color: antiquewhite;
 }
 
-.inline{
+.racks{
+   display: block;
    background: red;
    color: blanchedalmond;
 }
