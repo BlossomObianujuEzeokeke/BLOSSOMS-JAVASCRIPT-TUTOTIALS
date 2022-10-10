@@ -185,8 +185,9 @@ ul li a{
 
 } */
 
-.box -1, .box-2, box-3{
-
+.box-1, .box-2, .box-3 {
+width: 200px;
+height: 200px;
 }
 
 
