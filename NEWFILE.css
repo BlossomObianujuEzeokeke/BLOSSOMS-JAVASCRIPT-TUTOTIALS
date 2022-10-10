@@ -267,11 +267,19 @@ visibility: visible;
    background-size:cover ;
 }  */
  
-
-div{
-
+*{
+   display: flex;
 }
 
+div{
+width: 150px;
+height: 150px;
+}
+
+.one{
+   background: linear-gradient();
+
+}
 
 
 
