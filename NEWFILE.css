@@ -231,13 +231,14 @@ cursor: pointer;
 visibility: visible;
 } */
 
-*{
+
+/* *{
    margin: 0;
    padding: 0;
    box-sizing: border-box
-}
+} */
 
-div{
+/* div{
    min-height:100vh ;
    /* height: 400px; */
 color: #ff0000;
@@ -245,26 +246,32 @@ font-size: 20px;
 display: flex;
 justify-content: center;
 align-items: center;
-}
+} */
  
-.big-img{
+/* .big-img{
    background: url("./IMAGES/CLOUD\ PHOTO.jpg");
    background-repeat: no-repeat;
    background-size:cover ;
-   /* padding-bottom: 100px; */
-   /* background-position: center; */
+   padding-bottom: 100px;
+   background-position: center;
    background-attachment: ;
-}
+} */
 
-.small-img{
+/* .small-img{
    background: url("./IMAGES/first\ image.jpg");
-   /* background-repeat:  space; */
+   background-repeat:  space;
    background-repeat: no-repeat;
-   /* background-position: right; */
-   /* background-position: 100% 100%; */
+   background-position: right;
+   background-position: 100% 100%;
    background-attachment: fixed;
    background-size:cover ;
-}
+}  */
+ 
+
+
+
+
+
 
 
 
