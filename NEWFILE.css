@@ -215,9 +215,12 @@ color: white;
 }
 
 .none{
-   
+   display: none;
 }
 
+.opacity {
+   opacity: 1;
+}
 
 
 
