@@ -156,9 +156,9 @@ outline-offset: -10px;
    background: red;
    color: blanchedalmond;
 } */
-
+ 
 *{
-   margin: 0;
+   margin: 0 auto;
    padding: 0;
    box-sizing: 0;
    font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -178,7 +178,7 @@ ul li a{
  padding-bottom: 10px;
  padding: 10px 40px;
  box-sizing: 20px;
- margin: 10px;
+ margin: 5px;
  outline: 3px solid black;
  outline-offset: -3px;
  line-height: 3rem
