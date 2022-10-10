@@ -267,21 +267,31 @@ visibility: visible;
    background-size:cover ;
 }  */
  
-*{
-   display: flex;
+body{
+   /* display: flex; */
 }
 
 div{
 width: 150px;
 height: 150px;
+margin: 5px;
 }
 
 .one{
-   background: linear-gradient();
-
+   background: linear-gradient(red, green, purple);
 }
 
+.two{
+   background: linear-gradient(green, red);
+}
 
+.three{
+   background: linear-gradient(to top left, orange, blue, purple);
+   background: linear-gradient(300deg, orange, blue, purple);
+color: rgb(255, 255, 255);
+
+
+}
 
 
 
