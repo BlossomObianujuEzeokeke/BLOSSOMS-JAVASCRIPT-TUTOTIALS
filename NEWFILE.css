@@ -208,9 +208,15 @@ box-sizing: border-box;
 }
  */
 
+div{
+background: blue;
+margin: 10px;
+color: white;
+}
 
-
-
+.none{
+   
+}
 
 
 
