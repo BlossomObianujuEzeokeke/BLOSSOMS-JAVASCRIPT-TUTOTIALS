@@ -237,11 +237,16 @@ color: #ff0000;
 }
  
 .big-img{
-   background: ;
+   background: url("./IMAGES/CLOUD\ PHOTO.jpg") ;
 }
 
+.small-img{
+   background: url("./IMAGES/first\ image.jpg");
+}
 
-
+.folder-img{
+   background: url();
+}
 
 
 
