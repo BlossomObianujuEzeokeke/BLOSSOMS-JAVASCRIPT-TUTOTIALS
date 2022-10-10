@@ -173,15 +173,15 @@ ul li a{
  background-color:chartreuse ;
  text-decoration: none;
  cursor: pointer;
- display: block ;
+ display:inline;
  padding-top: 10px;
  padding-bottom: 10px;
- padding: 10px 10px;
+ padding: 10px 40px;
  box-sizing: 20px;
- margin: 5px;
+ margin: 10px;
  outline: 3px solid black;
  outline-offset: -3px;
-
+ line-height: 3rem
 
 }
 
