@@ -211,7 +211,7 @@ box-sizing: border-box;
 /* div{
 background: blue;
 margin: 10px;
-color: white;
+color: #ffffff;
 cursor: pointer;
 }
 
@@ -231,8 +231,14 @@ cursor: pointer;
 visibility: visible;
 } */
 
-
-
+div{
+   height: 400px;
+color: #ff0000;
+}
+ 
+.big-img{
+   background: ;
+}
 
 
 
