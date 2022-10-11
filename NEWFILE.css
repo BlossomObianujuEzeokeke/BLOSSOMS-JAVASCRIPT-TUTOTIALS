@@ -267,8 +267,8 @@ visibility: visible;
    background-size:cover ;
 }  */
  
-body{
-   /* display: flex; */
+/* body{
+   display: flex; 
 }
 
 div{
@@ -288,10 +288,8 @@ margin: 5px;
 .three{
    background: linear-gradient(to top left, orange, blue, purple);
    background: linear-gradient(300deg, orange, blue, purple);
-color: rgb(255, 255, 255);
-
-
-}
+color: rgb(255, 255, 255); */
+} 
 
 
 
