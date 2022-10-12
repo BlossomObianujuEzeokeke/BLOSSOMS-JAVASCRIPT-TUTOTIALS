@@ -344,18 +344,24 @@ clear: both;
    float: right;
 } */
 
-*{
-margin-right: 0;
-padding-left: 0;
-/* box-sizing: border-box; */
+p{
+background: purple;
+color: blanchedalmond;
+float: right;
 
 }
 
+/* *{
+margin-right: 0;
+padding-left: 0;
+box-sizing: border-box;
+} */
+
 div{
    /* margin: 5vw; */
-   /* padding-left: 50px; */
+   padding-left: 50px;
    border: solid 0.1em darkblue;
-   width: 45%;
+   width: 40%;
    height: 200px;
    float: right;
 }
