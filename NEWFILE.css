@@ -345,16 +345,19 @@ clear: both;
 } */
 
 *{
-margin: 0;
-padding: 0;
-box-sizing: content-box;
+margin-right: 0;
+padding-left: 0;
+/* box-sizing: border-box; */
+
 }
 
 div{
-   float:left;
-   height:200px;
-   width: 33.3%;
-background: green;
+   /* margin: 5vw; */
+   /* padding-left: 50px; */
+   border: solid 0.1em darkblue;
+   width: 45%;
+   height: 200px;
+   float: right;
 }
 
 .one{
@@ -369,7 +372,17 @@ background: green;
    background: rgba(19, 170, 47, 0.997);
 }
 
+.four{
+   background: rgba(255, 0, 0, 0.917);
+}
 
+.five{
+   background: darkred;
+}
+
+.six{
+   background: darkorange;
+}
 
 
 
