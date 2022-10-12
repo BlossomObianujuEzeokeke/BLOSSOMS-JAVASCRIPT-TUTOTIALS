@@ -322,15 +322,18 @@ background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('./IMAGES/fir
 .banner {
   border: 5px solid red; 
   padding: 10px;
+  overflow: hidden;
 }
 
-   img {
-      float: left;
-   }
+ /* img {
 
-p {
+   float:left ;
+   margin-left: 45vw;
+      } */
+
+/* p {
 clear: both;
-}
+} */
 
 
 
