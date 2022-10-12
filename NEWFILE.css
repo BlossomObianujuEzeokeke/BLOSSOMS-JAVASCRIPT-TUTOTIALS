@@ -319,11 +319,11 @@ background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('./IMAGES/fir
 
 } */
 
-.banner {
+/* .banner {
   border: 5px solid red; 
   padding: 10px;
   overflow: hidden;
-}
+} */
 
  /* img {
 
@@ -333,11 +333,16 @@ background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('./IMAGES/fir
 
 /* p {
 clear: both;
+}
+
+.one{
+   float: left;
+   margin-left: 50px;
+}
+
+.two{
+   float: right;
 } */
-
-
-
-
 
 
 
