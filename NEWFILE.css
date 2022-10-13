@@ -347,16 +347,17 @@ clear: both;
 
 * {
 margin-right: 0;
-padding-left: 0;
+/* padding-left: 0; */
 box-sizing: border-box;
 }
 
-p{
+.right {
 float: right;
 background: purple;
 color: blanchedalmond;
 width:25vw;
 height: 200rem;
+padding-left: 50px;
 }
 
 /* {
@@ -399,7 +400,14 @@ div{
    background: darkorange;
 }
 
-
+.left {
+   float: right;
+   background: purple;
+   color: blanchedalmond;
+   width:25vw;
+   height: 200rem;
+   padding-left: 50px;
+   }
 
 
 
