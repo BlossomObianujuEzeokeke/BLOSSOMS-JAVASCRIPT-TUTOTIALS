@@ -345,12 +345,18 @@ clear: both;
    float: right;
 } */
 
+* {
+margin-right: 0;
+padding-left: 0;
+box-sizing: border-box;
+}
+
 p{
+float: right;
 background: purple;
 color: blanchedalmond;
-float: right;
-width: ;
-height: ;
+width:25vw;
+height: 200rem;
 }
 
 /* {
