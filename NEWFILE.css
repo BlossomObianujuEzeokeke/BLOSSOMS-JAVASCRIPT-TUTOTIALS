@@ -345,35 +345,28 @@ clear: both;
    float: right;
 } */
 
-* {
-margin-right: 0;
-/* padding-left: 0; */
-box-sizing: border-box;
-}
-
-.right {
-float: right;
-background: purple;
-color: blanchedalmond;
-width:25vw;
-height: 200rem;
-padding-left: 50px;
-}
-
 /* {
 margin-right: 0;
 padding-left: 0;
 box-sizing: border-box;
 } */
 
+/* .left {
+   float: right;
+   background: purple;
+   color: blanchedalmond;
+   width:25vw;
+   height: 200rem;
+   padding-left: 50px;
+   }
+
 div{
-   /* margin: 5vw; */
+   margin: 5vw;
    padding-left: 50px;
    border: solid 0.1em darkblue;
    width: 40%;
    height: 200px;
-   float: right;
-   
+   float: right; 
 }
 
 .one{
@@ -399,15 +392,7 @@ div{
 .six{
    background: darkorange;
 }
-
-.left {
-   float: right;
-   background: purple;
-   color: blanchedalmond;
-   width:25vw;
-   height: 200rem;
-   padding-left: 50px;
-   }
+ 
 
 
 
