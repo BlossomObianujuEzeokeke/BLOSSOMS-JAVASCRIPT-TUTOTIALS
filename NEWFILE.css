@@ -290,7 +290,8 @@ margin: 5px;
    background: linear-gradient(300deg, orange, blue, purple);
 color: rgb(255, 255, 255); }*/
 
-/* *{ 
+/* 
+*{ 
    margin: 0;
 padding: 0;
 box-sizing: border-box;
@@ -348,10 +349,11 @@ p{
 background: purple;
 color: blanchedalmond;
 float: right;
-
+width: ;
+height: ;
 }
 
-/* *{
+/* {
 margin-right: 0;
 padding-left: 0;
 box-sizing: border-box;
@@ -364,6 +366,7 @@ div{
    width: 40%;
    height: 200px;
    float: right;
+   
 }
 
 .one{
