@@ -476,7 +476,7 @@ background: chartreuse;
  }
  */
  
-.button{
+/* .button{
 display: inline-block;
 font-size: medium;
 border: .1em solid black;
@@ -490,10 +490,23 @@ transition-duration: 0.4s;
 .submit:hover{
 background: red;
 color: white;
+} */
+
+/* .button{
+border:5em;
+background: chartreuse;
+padding: .5em;
+transition-duration: 0.4s;
+cursor: pointer;
+color: black;
+border-radius: 50em;
 }
 
-
-
+.click:hover{
+   color: white;
+   background: darkblue;
+   border: black;
+} */
 
 
 
