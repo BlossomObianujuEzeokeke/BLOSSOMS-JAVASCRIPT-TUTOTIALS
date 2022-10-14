@@ -414,7 +414,7 @@ background: purple;
 background: chartreuse;
 } */
 
-.one { 
+a.one:link { 
    margin: 1em;
    background-color: #f44336;
    color: white;
@@ -435,7 +435,7 @@ background: chartreuse;
 }
 
 .three{
-   
+
 }
 
 
