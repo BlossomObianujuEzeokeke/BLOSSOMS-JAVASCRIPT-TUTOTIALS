@@ -433,10 +433,9 @@ background: chartreuse;
 
 } */
 
-.div {
+/* .div {
    border: none;
    color: white;
-
  }
 
 .button1 {
@@ -475,17 +474,22 @@ background: chartreuse;
    background-color: #008CBA;
    color: white;
  }
+ */
  
-div{
-
+.button{
+display: inline-block;
+font-size: medium;
+border: .1em solid black;
+cursor: pointer;
+padding: .4em;
+background: #4CAF50;
+color: white;
+transition-duration: 0.4s;
 }
 
-.submit {
-
-}
-
-.submit :hover{
-
+.submit:hover{
+background: red;
+color: white;
 }
 
 
