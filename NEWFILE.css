@@ -433,14 +433,10 @@ background: chartreuse;
 
 } */
 
-.button {
+.div {
    border: none;
    color: white;
-   padding: 16px 32px;
-   font-size: 16px;
-   margin: 4px 2px;
-   /* transition-duration: 0.4s; */
-   /* cursor: pointer; */
+
  }
 
 .button1 {
@@ -451,9 +447,10 @@ background: chartreuse;
    border-radius: 50%;
    cursor: pointer;
    text-align: center;
-
-
-
+   padding: 16px 32px;
+   transition-duration: 0.4s;
+   font-size: 16px;
+   margin: 4px 2px;
  }
  
  .button1:hover {
@@ -468,9 +465,10 @@ background: chartreuse;
    display: inline-block;
    cursor: pointer;
    text-align: center;
-
-
-
+   padding: 16px 32px;
+   transition-duration: 0.4s;
+   font-size: 16px;
+   margin: 4px 2px;
  }
  
  .button2:hover {
