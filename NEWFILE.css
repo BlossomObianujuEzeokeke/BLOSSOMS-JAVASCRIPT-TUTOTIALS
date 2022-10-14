@@ -402,7 +402,8 @@ text-align: center;
 }
 
 .one{
-background:blue ;
+background:blue;
+position: relative;
 }
 
 .two{
