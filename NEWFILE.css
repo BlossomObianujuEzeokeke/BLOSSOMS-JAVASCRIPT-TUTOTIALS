@@ -414,10 +414,15 @@ background: purple;
 background: chartreuse;
 } */
 
-a.one:link { 
-   margin: 1em;
-   background-color: #f44336;
-   color: white;
+nav { 
+   margin: 1em
+   padding: 10px 20px;
+   text-align: center;
+   display: inline-block;
+}
+
+.one {
+   background-color: green;
    padding: 10px 20px;
    text-align: center;
    text-decoration: none;
@@ -425,25 +430,20 @@ a.one:link {
 }
 
 .two {
-   margin: 1em;
-   background-color: green;
-   color: white;
-   padding: 10px 20px;
-   text-align: center;
-   text-decoration: none;
-   display: inline-block;
-}
-
-.three{
 
 }
 
+.button {
 
+}
 
+.button1 {
 
+}
 
-
-
+.button2 {
+   
+}
 
 
 
