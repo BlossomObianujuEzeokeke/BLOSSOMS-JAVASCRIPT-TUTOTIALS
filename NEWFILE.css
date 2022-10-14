@@ -414,7 +414,7 @@ background: purple;
 background: chartreuse;
 } */
 
-.Link { 
+.one { 
    margin: 1em;
    background-color: #f44336;
    color: white;
@@ -424,7 +424,7 @@ background: chartreuse;
    display: inline-block;
 }
 
-.Link2 {
+.two {
    margin: 1em;
    background-color: green;
    color: white;
@@ -434,9 +434,8 @@ background: chartreuse;
    display: inline-block;
 }
 
-button {
-   margin: 2em;
-   color:darkblue
+.three{
+   
 }
 
 
