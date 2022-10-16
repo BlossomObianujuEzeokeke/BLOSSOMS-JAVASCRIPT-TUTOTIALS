@@ -492,7 +492,7 @@ background: red;
 color: white;
 } */
 
-/* .button{
+.button{
 border:5em;
 background: chartreuse;
 padding: .5em;
@@ -506,7 +506,13 @@ border-radius: 50em;
    color: white;
    background: darkblue;
    border: black;
-} */
+   /* box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24); */
+   box-shadow: 0 10px 14px 0 rgba(1, 1, 1, 1);
+   box-shadow: 0 10px 14px 0 rgba(0, 0, 0, 0.26);
+
+}
+
+
 
 
 
