@@ -512,7 +512,6 @@ border-radius: 50em;
 
 /* ANIMATED BUTTONS */
 .button {
-   vertical-align: middle;
    display: inline-block;
    border-radius: 4px;
    background-color: #f4511e;
@@ -551,8 +550,6 @@ border-radius: 50em;
    opacity: 1;
    right: 0;
  }
-
-
 
 
 
