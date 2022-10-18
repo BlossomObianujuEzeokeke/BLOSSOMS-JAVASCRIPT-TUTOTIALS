@@ -554,13 +554,24 @@ border-radius: 50em;
  */
 
  
-.box{
-   
+h1 {
+text-shadow: 17px -4px 0px rgba(255, 150, 150, 0.54);
 }
 
+.box {
+width: 200px;
+height: 100px;
+background: blue;
+margin: 20px;
+transition: all 0.5s linear;
+}
 
+.box:hover {
+-webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+-moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75); 
 
-
+}
 
 
 
