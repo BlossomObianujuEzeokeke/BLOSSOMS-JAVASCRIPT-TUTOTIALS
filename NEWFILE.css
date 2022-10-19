@@ -554,7 +554,7 @@ border-radius: 50em;
  */
 
  /* VENDOR PREFIXES */
-h1 {
+/* h1 {
 text-shadow: 17px -4px 0px rgba(255, 150, 150, 0.54);
 }
 
@@ -579,14 +579,14 @@ box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
 } 
 
 .scroll {
-   display: block;
+   display: grid;
    border: 0px solid black;
    padding: 10px;
-   margin-top: 5px;
+   margin-top: 0px;
    width: 100%;
    height: 300px;
    overflow-y: scroll;
-}
+} */
 
 
 
