@@ -588,12 +588,22 @@ box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
    overflow-y: scroll;
 } */
 
+/* MEDIA QUERIES */
+body {
+   background: lightblue;
+}
 
+.banner {
+   background: blue;
+}
 
+h1 {
+color: white;
+text-align: center;
+text-decoration: underline;
+text-transform: capitalize;
 
-
-
-
+}
 
 
 
