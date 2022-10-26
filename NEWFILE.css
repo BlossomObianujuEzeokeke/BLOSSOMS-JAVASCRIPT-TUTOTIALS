@@ -604,7 +604,7 @@ text-decoration: underline;
 text-transform: capitalize;
 } 
 
-@media screen and (min-width:576px){
+/* @media screen and (min-width:576px){
 body{
    background: red;  
 }
@@ -614,16 +614,25 @@ body{
 }
 
 h1{
-   color: black
+   color: black;
+   font-size: 60px;
 }
 
 }
 
+ */
 
+img{
+   margin: 20px;
+   width: 100px;
+   height: 70vh;
+   position:absolute;
+}
 
+.banner{
+margin
 
-
-
+}
 
 
 
