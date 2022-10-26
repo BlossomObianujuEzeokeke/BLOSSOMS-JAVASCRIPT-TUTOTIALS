@@ -589,7 +589,7 @@ box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
 } */
 
 /* MEDIA QUERIES */
- body {
+ /* body {
    background: yellow;
 }
 
@@ -602,7 +602,7 @@ color: white;
 text-align: center;
 text-decoration: underline;
 text-transform: capitalize;
-} 
+}  */
 
 /* @media screen and (min-width:576px){
 body{
@@ -623,14 +623,17 @@ h1{
  */
 
 img{
-   margin: 20px;
    width: 100px;
-   height: 70vh;
-   position:absolute;
+   height: 100px;
+   position: absolute;
 }
 
 .banner{
-margin
+margin: 20px;
+width: 80vw;
+height: 70vh;
+border: 5px solid red;
+position: relative ;
 
 }
 
