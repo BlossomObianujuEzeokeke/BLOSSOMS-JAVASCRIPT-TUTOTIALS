@@ -660,20 +660,20 @@ div {
 
 .one {
    background: red;
-   transform: translateX(30px);
+   transform: translateY(-80%);
 
 }
 
 .two {
    background: green;
-   transform: translateX(50px);
+   transform: translateY(-70px);
 
 }
 
 .three {
    background: blue;
-   transform: translateX(70px);
-   
+   transform: translateX(-50px);
+
 }
 
 
