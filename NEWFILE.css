@@ -656,24 +656,24 @@ div {
    width: 150px;
    height: 150px;
    display: inline-block;
+   color: white
 }
 
 .one {
    background: red;
-   transform: translateY(-80%);
+   transform: translate(-50px, );
+   margin-left: 500px;
 
 }
 
 .two {
    background: green;
-   transform: translateY(-70px);
-
+   transform: translate(-100px, 50px);
 }
 
 .three {
    background: blue;
-   transform: translateX(-50px);
-
+transform: translate(-200px, 100px);
 }
 
 
