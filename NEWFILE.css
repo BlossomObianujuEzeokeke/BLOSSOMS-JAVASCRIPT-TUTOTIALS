@@ -661,21 +661,21 @@ div {
 
 .one {
    background: red;
-   transform: translate(400%);
+   /* transform: translate(400%); */
 
 
 }
 
 .two {
    background: green;
-   transform: translate(340%, 50%);
-
+   /* transform: translate(340%, 50%); */
+transform: rotateZ(45deg);
 
 }
 
 .three {
    background: blue;
-transform: translate(280%, 100%);
+/* transform: translate(280%, 100%); */
 
 
 }
