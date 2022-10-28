@@ -687,6 +687,8 @@ div {
    background: lightskyblue;
    transition: width 2s;
    border: 10px solid red;
+/* transition: cubic-bezier(0.075, 0.82, 0.165, 1); */
+
  }
 
  div:hover {
@@ -695,7 +697,7 @@ div {
    color: white;
  }
 
- 
+
 
 
 
