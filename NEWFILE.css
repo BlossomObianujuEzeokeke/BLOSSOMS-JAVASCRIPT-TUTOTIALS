@@ -734,7 +734,7 @@ background: orangered;
 
 } */
 
- div{
+ /* div{
 width: 200px;
 height: 100px;
 color: white;
@@ -743,12 +743,59 @@ margin: 10px;
 
 .animations {
    background: blue;
-   animation-name: blossom;
+   animation: blossom 10s infinite;
+   animation-fill-mode: both;
    }
 
 @keyframes blossom {
-
+0% {
+   opacity: 0;
 }
+
+10% {
+   transform: translateX(100px);
+   opacity: 0.10;
+}
+
+25% {
+   transform: translateX(200px);
+   opacity: 0.25;
+}
+
+50% {
+   transform: translateX(300px);
+   opacity: 10;
+}
+
+70% {
+   transform: translateX(200px);
+   opacity: 0.5;
+}
+
+100% {
+   transform: translateX(250px);
+   opacity: 5;
+}
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
