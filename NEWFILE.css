@@ -699,16 +699,54 @@ transition-delay: 0.5s;
  } */
 
 
+/* div{
+width: 200px;
+height: 100px;
+color: white;
+margin: 10px;
+}
 
+.transitions {
+background: red;
+transition: all 2s linear;
+}
 
+.transitions:hover {
+background:  blue;
+transform: translateX(100px);
+}
 
+.animations {
+background: blue;
+animation-name: move;
+animation-duration: 10s;
+animation-iteration-count: infinite;
+}
 
+@keyframes move {
+   0% {transform: translateX(200px);}
+   50% {transform: translateX(100px);
+   background: red;
+   }
+75% {transform: translateX(200px);
+background: orangered;
+}
 
+} */
 
+ div{
+width: 200px;
+height: 100px;
+color: white;
+margin: 10px;
+}
 
-
-
-
+.animations {
+   background: blue;
+   animation-name: move;
+   animation-duration: 10s;
+   animation-iteration-count: infinite;
+   }
 
 
 
