@@ -743,10 +743,16 @@ margin: 10px;
 
 .animations {
    background: blue;
-   animation-name: move;
-   animation-duration: 10s;
-   animation-iteration-count: infinite;
+   animation-name: blossom;
    }
+
+@keyframes blossom {
+
+}
+
+
+
+
 
 
 
