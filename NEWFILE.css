@@ -780,7 +780,7 @@ margin: 10px;
 } */
 
 /* CSS VAR */
-.heading {
+/* .heading {
    color: #ff0000;
 }
 
@@ -798,19 +798,48 @@ color: #1313fa;
 
 .third-heading {
    color: green;
+} */
+
+/* OR */
+:root {
+   --primaryColor: #0000ff;
+   --secondaryColor: #f15025;
+   --mainTransition: all 1s linear;
+   --cursor: pointer;
+   --border: 5px solid darkblue;
+   --background-color: lightskyblue;
 }
 
+.heading {
+   color: var(--primaryColor);
+   cursor: var(--cursor);
+   border: var(--border);
+   background-color: var(--background-color);
+}
 
+.heading:hover {
+   color: var(--secondaryColor) ;
+   transition: var(--mainTransition);
 
+}
 
+.second-heading {
+   color: var(--primaryColor);
+   transition: var(--mainTransition );
+   cursor: var(--cursor);
+}
 
+.second-heading:hover {
+   color: var(--secondaryColor);
+}
 
+div {
+   --orange: #008000;
+}
 
-
-
-
-
-
+.main-text {
+color: var(--orange)
+}
 
 
 
