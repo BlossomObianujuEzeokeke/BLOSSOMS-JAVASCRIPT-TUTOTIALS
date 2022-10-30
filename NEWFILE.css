@@ -780,13 +780,25 @@ margin: 10px;
 } */
 
 /* CSS VAR */
-.heading
+.heading {
+   color: #ff0000;
+}
 
+.text {
+   color: #32ff0e;
+}
 
+.main-text {
+color: #1313fa;
+}
 
+.second-heading {
+   color: #f15000;
+}
 
-
-
+.third-heading {
+   color: green;
+}
 
 
 
