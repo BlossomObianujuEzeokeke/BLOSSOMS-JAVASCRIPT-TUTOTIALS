@@ -846,9 +846,8 @@ color: var(--orange)
 
 /* TEXT SHADOW */
 h1 {
-   text
-}
-
+   text-shadow: 2px 2px red;
+ }
 
 
 
