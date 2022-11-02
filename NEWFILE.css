@@ -845,19 +845,25 @@ color: var(--orange)
  */
 
 /* CREATING CARDS */
-#card {
+/* .card {
    width: 250px;
    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
    text-align: center;
  }
  
-
-
-
-
-
-
+  .card { 
+   width: 250px;
+ horizontal-shadow:#1313fa;
+ blur:#008CBA;
  
+ color:
+ inset:
+  } */
+
+
+
+
+
  .header {
    background-color: #4CAF50;
    color: white;
